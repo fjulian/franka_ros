@@ -1,8 +1,6 @@
 # ROS integration for Franka Emika research robots
 
-[![Build Status][travis-status]][travis]
-
-See the [Franka Control Interface (FCI) documentation][fci-docs] for more information.
+This is a work in progress port to ROS 2. Currently only the franka description package has been ported.
 
 ## License
 
